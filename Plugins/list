@@ -1,4 +1,6 @@
-### Multimedia Addon's ### 
+****************************************************
+################ Multimedia Addon's ################ 
+****************************************************
 enigma2-plugin-extensions-quran-karim.ipk
 enigma2-plugin-extensions-e2iplayer.ipk
 enigma2-plugin-extensions-justwatch.ipk
@@ -10,16 +12,20 @@ enigma2-plugin-extensions-tsmedia.ipk
 enigma2-plugin-extensions-m3uplayer.ipk
 enigma2-plugin-extensions-tuneinradio.ipk
 enigma2-plugin-extensions-livefootball.ipk
+enigma2-plugin-extensions-kodilite.ipk
 enigma2-plugin-extensions-backsncovers.ipk
 ****************************************************
-### Key's and Cams ###
+################## Key's and Cams ##################
+****************************************************
 FreeServerCCcam.ipk
 enigma2-plugin-extensions-addkey.ipk
 enigma2-plugin-extensions-bissfeed-autokey.ipk
 enigma2-plugin-extensions-dreamosat-cammanager.ipk
 enigma2-plugin-extensions-dreamosat-keyupdater.ipk
 ****************************************************
-### Panel's and Utility ###
+############## Panel's and Utility #################
+****************************************************
+enigma2-plugin-extensions-advancedeventlibrary.ipk
 enigma2-plugin-extensions-dreamosat-downloader.ipk
 enigma2-plugin-extensions-dreamosat-script.ipk
 enigma2-plugin-extensions-iptvremote.ipk
