@@ -11,14 +11,14 @@ enigma2-plugin-extensions-m3uplayer.ipk
 enigma2-plugin-extensions-tuneinradio.ipk
 enigma2-plugin-extensions-livefootball.ipk
 enigma2-plugin-extensions-backsncovers.ipk
-
+****************************************************
 ### Key's and Cams ###
 FreeServerCCcam.ipk
 enigma2-plugin-extensions-addkey.ipk
 enigma2-plugin-extensions-bissfeed-autokey.ipk
 enigma2-plugin-extensions-dreamosat-cammanager.ipk
 enigma2-plugin-extensions-dreamosat-keyupdater.ipk
-
+****************************************************
 ### Panel's and Utility ###
 enigma2-plugin-extensions-dreamosat-downloader.ipk
 enigma2-plugin-extensions-dreamosat-script.ipk
@@ -35,7 +35,4 @@ enigma2-plugin-extensions-clearmem-lite.ipk
 enigma2-plugin-extensions-e2m3u2bouquet.ipk
 enigma2-plugin-cams-tunisia-sat-active-code.ipk
 enigma2-plugin-extensions-setpicon.ipk
-
-
-
-
+****************************************************
