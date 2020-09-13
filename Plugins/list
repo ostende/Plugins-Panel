@@ -3,6 +3,7 @@
 ****************************************************
 enigma2-plugin-extensions-quran-karim.ipk
 enigma2-plugin-extensions-e2iplayer.ipk
+enigma2-plugin-extensions-satvenus-panel.ipk
 enigma2-plugin-extensions-mediaportal.ipk
 enigma2-plugin-extensions-russianmediapark.ipk
 enigma2-plugin-extensions-worldcam.ipk
@@ -13,6 +14,7 @@ enigma2-plugin-extensions-tuneinradio.ipk
 enigma2-plugin-extensions-livefootball.ipk
 enigma2-plugin-extensions-kodilite.ipk
 enigma2-plugin-extensions-backsncovers.ipk
+enigma2-plugin-extensions-vodwebcenter.ipk
 ****************************************************
 *      Key's and Cams 
 ****************************************************
@@ -24,6 +26,8 @@ enigma2-plugin-extensions-dreamosat-keyupdater.ipk
 ****************************************************
 *     Panel's and Utility 
 ****************************************************
+enigma2-plugin-cams-linuxsat-active-code.ipk
+enigma2-plugin-cams-tunisia-sat-active-code_all.ipk
 enigma2-plugin-extensions-dreamosat-downloader.ipk
 enigma2-plugin-extensions-dreamosat-script.ipk
 enigma2-plugin-extensions-iptvremote.ipk
@@ -37,6 +41,7 @@ enigma2-plugin-extensions-tmbd.ipk
 enigma2-plugin-extensions-tspanel.ipk
 enigma2-plugin-extensions-clearmem-lite.ipk
 enigma2-plugin-extensions-e2m3u2bouquet.ipk
-enigma2-plugin-cams-tunisia-sat-active-code.ipk
 enigma2-plugin-extensions-setpicon.ipk
 ****************************************************
+
+latest update 13.09.2020
