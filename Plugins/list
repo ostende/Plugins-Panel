@@ -15,10 +15,13 @@ enigma2-plugin-extensions-livefootball.ipk
 enigma2-plugin-extensions-kodilite.ipk
 enigma2-plugin-extensions-backsncovers.ipk
 enigma2-plugin-extensions-vodwebcenter.ipk
+enigma2-plugin-extensions-alajre.ipk
+enigma2-plugin-extensions-athantimes.ipk
 ****************************************************
 *      Key's and Cams 
 ****************************************************
 FreeServerCCcam.ipk
+enigma2-plugin-extensions-freeserver.ipk
 enigma2-plugin-extensions-addkey.ipk
 enigma2-plugin-extensions-bissfeed-autokey.ipk
 enigma2-plugin-extensions-dreamosat-cammanager.ipk
@@ -31,6 +34,7 @@ enigma2-plugin-cams-tunisia-sat-active-code_all.ipk
 enigma2-plugin-extensions-dreamosat-downloader.ipk
 enigma2-plugin-extensions-dreamosat-script.ipk
 enigma2-plugin-extensions-iptvremote.ipk
+enigma2-plugin-extensions-arabicsavior.ipk
 enigma2-plugin-extensions-levi45-addonsmanager.ipk
 enigma2-plugin-extensions-linuxsat-panel.ipk
 enigma2-plugin-extensions-raedquicksignal.ipk
@@ -39,9 +43,16 @@ enigma2-plugin-extensions-subssupport.ipk
 enigma2-plugin-extensions-tetris.ipk
 enigma2-plugin-extensions-tmbd.ipk
 enigma2-plugin-extensions-tspanel.ipk
+enigma2-plugin-extensions-epgtranslatorlite.rar
+enigma2-plugin-extensions-fontmagnifier.rar
+enigma2-plugin-extensions-opkg-tools.ipk
+enigma2-plugin-extensions-oscamupdater.ipk
 enigma2-plugin-extensions-clearmem-lite.ipk
 enigma2-plugin-extensions-e2m3u2bouquet.ipk
 enigma2-plugin-extensions-setpicon.ipk
 ****************************************************
 
-latest update 13.09.2020
+
+
+
+latest update 16.09.2020
