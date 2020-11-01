@@ -1,9 +1,10 @@
 ****************************************************
 *      Multimedia Addon's  
 ****************************************************
+enigma2-plugin-extensions-alajre.ipk
+enigma2-plugin-extensions-athantimes.ipk
 enigma2-plugin-extensions-quran-karim.ipk
 enigma2-plugin-extensions-e2iplayer.ipk
-enigma2-plugin-extensions-satvenus-panel.ipk
 enigma2-plugin-extensions-mediaportal.ipk
 enigma2-plugin-extensions-russianmediapark.ipk
 enigma2-plugin-extensions-worldcam.ipk
@@ -15,28 +16,27 @@ enigma2-plugin-extensions-livefootball.ipk
 enigma2-plugin-extensions-kodilite.ipk
 enigma2-plugin-extensions-backsncovers.ipk
 enigma2-plugin-extensions-vodwebcenter.ipk
-enigma2-plugin-extensions-alajre.ipk
-enigma2-plugin-extensions-athantimes.ipk
-enigma2-plugin-extensions-xtraevent.ipk
 enigma2-plugin-extensions-iptvdream.ipk
 ****************************************************
 *      Key's and Cams 
 ****************************************************
 FreeServerCCcam.ipk
+enigma2-plugin-softcams-ncam_V11.4-r0_all.ipk
+enigma2-plugin-cams-tunisia-sat-active-code_all.ipk
 enigma2-plugin-extensions-freeserver.ipk
 enigma2-plugin-extensions-addkey.ipk
 enigma2-plugin-extensions-bissfeed-autokey.ipk
 enigma2-plugin-extensions-dreamosat-cammanager.ipk
 enigma2-plugin-extensions-dreamosat-keyupdater.ipk
+enigma2-plugin-cams-linuxsat-active-code.ipk
 ****************************************************
 *     Panel's and Utility 
 ****************************************************
-enigma2-plugin-cams-linuxsat-active-code.ipk
-enigma2-plugin-cams-tunisia-sat-active-code_all.ipk
 enigma2-plugin-extensions-dreamosat-downloader.ipk
 enigma2-plugin-extensions-dreamosat-script.ipk
 enigma2-plugin-extensions-iptvremote.ipk
 enigma2-plugin-extensions-arabicsavior.ipk
+enigma2-plugin-extensions-satvenus-panel.ipk
 enigma2-plugin-extensions-levi45-addonsmanager.ipk
 enigma2-plugin-extensions-linuxsat-panel.ipk
 enigma2-plugin-extensions-raedquicksignal.ipk
@@ -52,7 +52,9 @@ enigma2-plugin-extensions-oscamupdater.ipk
 enigma2-plugin-extensions-clearmem-lite.ipk
 enigma2-plugin-extensions-e2m3u2bouquet.ipk
 enigma2-plugin-extensions-setpicon.ipk
+enigma2-plugin-extensions-xtraevent.ipk
 enigma2-plugin-extensions-newsreader.ipk
+enigma2-plugin-extensions-vpnmanager.ipk
 ****************************************************
 
 
